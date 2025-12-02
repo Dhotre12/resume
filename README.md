@@ -46,6 +46,7 @@ I am based in **New Panvel, India** and have a strong foundation in Python, Mach
 | **M. Tech. in Computer Science and Engineering** | Government College of Engineering, Karad | 2024-Present | CGPA: 8.07/10 |
 | **B.E. in Information Technology** | Mahatma Gandhi Mission's College of Engineering | 2021-2024 | CGPA: 8.21/10 |
 | **Class XII (CBSE)** | St. Joseph's High School | 2017-2019 | 63.4% |
+| **Class X (CBSE)** | Shantiniketan Public Schoo | 2011 - 2017 | CGPA: 9.2/10 |
 
 ---
 
